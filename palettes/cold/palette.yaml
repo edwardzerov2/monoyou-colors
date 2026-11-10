@@ -3,19 +3,19 @@ variant: cold
 version: 1.0.0
 
 colors:
-  accent: "#DFE2E6"
-  text: "#BCC2CB"
-  subtext: "#9099A8"
+  accent: "#454A53"
+  text: "#C0C4CC"
+  subtext: "#9298A3"
 
-  overlay2: "#666F7E"
-  overlay1: "#444B59"
-  overlay0: "#282D39"
+  overlay2: "#292C32"
+  overlay1: "#202226"
+  overlay0: "#191B1F"
 
-  surface2: "#252A36"
-  surface1: "#222631"
-  surface0: "#1F222D"
+  surface2: "#202226"
+  surface1: "#191B1F"
+  surface0: "#151619"
 
-  base: "#1C1F29"
+  base: "#111214"
 
-  island1: "#191C25"
-  island2: "#161923"
+  island1: "#0F1012"
+  island2: "#0D0E10"

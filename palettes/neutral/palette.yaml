@@ -3,19 +3,19 @@ variant: neutral
 version: 1.0.0
 
 colors:
-  accent: "#E0E0E0"
+  accent: "#4A4A4A"
   text: "#C6C6C6"
   subtext: "#929292"
 
-  overlay2: "#686868"
-  overlay1: "#454545"
-  overlay0: "#292929"
+  overlay2: "#2C2C2C"
+  overlay1: "#222222"
+  overlay0: "#1B1B1B"
 
-  surface2: "#242424"
-  surface1: "#202020"
-  surface0: "#1D1D1D"
+  surface2: "#222222"
+  surface1: "#1B1B1B"
+  surface0: "#161616"
 
-  base: "#1A1A1A"
+  base: "#121212"
 
-  island1: "#181818"
-  island2: "#161616"
+  island1: "#101010"
+  island2: "#0E0E0E"

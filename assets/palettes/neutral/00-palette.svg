@@ -2,41 +2,41 @@
   <title>MonoYou Neutral palette</title>
   <clipPath id="c"><rect width="480" height="672" rx="24"/></clipPath>
   <g clip-path="url(#c)">
-  <rect y="0" width="480" height="56" fill="#E0E0E0"/>
-  <text x="20" y="34" font-family="monospace" font-size="16" fill="#000000">Accent</text>
-  <text x="460" y="34" font-family="monospace" font-size="16" fill="#000000" text-anchor="end">#E0E0E0</text>
+  <rect y="0" width="480" height="56" fill="#4A4A4A"/>
+  <text x="20" y="34" font-family="monospace" font-size="16" fill="#FFFFFF">Accent</text>
+  <text x="460" y="34" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#4A4A4A</text>
   <rect y="56" width="480" height="56" fill="#C6C6C6"/>
   <text x="20" y="90" font-family="monospace" font-size="16" fill="#000000">Text</text>
   <text x="460" y="90" font-family="monospace" font-size="16" fill="#000000" text-anchor="end">#C6C6C6</text>
   <rect y="112" width="480" height="56" fill="#929292"/>
   <text x="20" y="146" font-family="monospace" font-size="16" fill="#000000">Subtext</text>
   <text x="460" y="146" font-family="monospace" font-size="16" fill="#000000" text-anchor="end">#929292</text>
-  <rect y="168" width="480" height="56" fill="#686868"/>
+  <rect y="168" width="480" height="56" fill="#2C2C2C"/>
   <text x="20" y="202" font-family="monospace" font-size="16" fill="#FFFFFF">Overlay 2</text>
-  <text x="460" y="202" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#686868</text>
-  <rect y="224" width="480" height="56" fill="#454545"/>
+  <text x="460" y="202" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#2C2C2C</text>
+  <rect y="224" width="480" height="56" fill="#222222"/>
   <text x="20" y="258" font-family="monospace" font-size="16" fill="#FFFFFF">Overlay 1</text>
-  <text x="460" y="258" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#454545</text>
-  <rect y="280" width="480" height="56" fill="#292929"/>
+  <text x="460" y="258" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#222222</text>
+  <rect y="280" width="480" height="56" fill="#1B1B1B"/>
   <text x="20" y="314" font-family="monospace" font-size="16" fill="#FFFFFF">Overlay 0</text>
-  <text x="460" y="314" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#292929</text>
-  <rect y="336" width="480" height="56" fill="#242424"/>
+  <text x="460" y="314" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#1B1B1B</text>
+  <rect y="336" width="480" height="56" fill="#222222"/>
   <text x="20" y="370" font-family="monospace" font-size="16" fill="#FFFFFF">Surface 2</text>
-  <text x="460" y="370" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#242424</text>
-  <rect y="392" width="480" height="56" fill="#202020"/>
+  <text x="460" y="370" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#222222</text>
+  <rect y="392" width="480" height="56" fill="#1B1B1B"/>
   <text x="20" y="426" font-family="monospace" font-size="16" fill="#FFFFFF">Surface 1</text>
-  <text x="460" y="426" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#202020</text>
-  <rect y="448" width="480" height="56" fill="#1D1D1D"/>
+  <text x="460" y="426" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#1B1B1B</text>
+  <rect y="448" width="480" height="56" fill="#161616"/>
   <text x="20" y="482" font-family="monospace" font-size="16" fill="#FFFFFF">Surface 0</text>
-  <text x="460" y="482" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#1D1D1D</text>
-  <rect y="504" width="480" height="56" fill="#1A1A1A"/>
+  <text x="460" y="482" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#161616</text>
+  <rect y="504" width="480" height="56" fill="#121212"/>
   <text x="20" y="538" font-family="monospace" font-size="16" fill="#FFFFFF">Base</text>
-  <text x="460" y="538" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#1A1A1A</text>
-  <rect y="560" width="480" height="56" fill="#181818"/>
+  <text x="460" y="538" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#121212</text>
+  <rect y="560" width="480" height="56" fill="#101010"/>
   <text x="20" y="594" font-family="monospace" font-size="16" fill="#FFFFFF">Island 1</text>
-  <text x="460" y="594" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#181818</text>
-  <rect y="616" width="480" height="56" fill="#161616"/>
+  <text x="460" y="594" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#101010</text>
+  <rect y="616" width="480" height="56" fill="#0E0E0E"/>
   <text x="20" y="650" font-family="monospace" font-size="16" fill="#FFFFFF">Island 2</text>
-  <text x="460" y="650" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#161616</text>
+  <text x="460" y="650" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="end">#0E0E0E</text>
   </g>
 </svg>
