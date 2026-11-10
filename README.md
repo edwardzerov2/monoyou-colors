@@ -4,15 +4,30 @@ The foundation of the **MonoYou** color system.
 
 MonoYou Colors defines a restrained monochromatic palette system designed to keep visual consistency across desktop environments and applications.
 
-The project currently provides three variants: **Neutral**, **Cold**, and **Warm**. Each variant uses the same twelve semantic color roles.
+The project currently provides three variants: **Cold**, **Neutral** and **Warm**. Each variant uses the same twelve semantic color roles.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/palettes/cold/00-palette.svg" width="240" alt="MonoYou Cold palette"><br>
+      <sub><b>Cold</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/palettes/neutral/00-palette.svg" width="240" alt="MonoYou Neutral palette"><br>
+      <sub><b>Neutral</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/palettes/warm/00-palette.svg" width="240" alt="MonoYou Warm palette"><br>
+      <sub><b>Warm</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Palettes
 
 ### MonoYou — Neutral
 
 The original monochromatic palette, built around neutral grayscale tones.
-
-<p align="center"><img src="assets/palettes/neutral/00-palette.svg" width="240" alt="MonoYou Neutral palette"></p>
 
 | Color | Swatch | HEX | RGB | HSL |
 |---|---|---|---|---|
@@ -33,8 +48,6 @@ The original monochromatic palette, built around neutral grayscale tones.
 
 A cool variation with subtle blue-gray undertones.
 
-<p align="center"><img src="assets/palettes/cold/00-palette.svg" width="240" alt="MonoYou Cold palette"></p>
-
 | Color | Swatch | HEX | RGB | HSL |
 |---|---|---|---|---|
 | Accent | <img src="assets/palettes/cold/01-accent.svg" width="20" height="20" alt="#DFE2E6"> | `#DFE2E6` | `223, 226, 230` | `214°, 12%, 89%` |
@@ -53,8 +66,6 @@ A cool variation with subtle blue-gray undertones.
 ### MonoYou Warm
 
 A warm variation with subtle warm-gray and charcoal undertones.
-
-<p align="center"><img src="assets/palettes/warm/00-palette.svg" width="240" alt="MonoYou Warm palette"></p>
 
 | Color | Swatch | HEX | RGB | HSL |
 |---|---|---|---|---|
@@ -95,15 +106,11 @@ monoyou-colors/
 ├── assets/
 │   └── palettes/
 │       ├── neutral/
-│       │   ├── 00-palette.svg
-│       │   ├── 01-accent.svg
-│       │   ├── ...
-│       │   └── 12-island-2.svg
+│       │   └── ...
 │       ├── cold/
 │       │   └── ...
 │       └── warm/
 │           └── ...
-├── docs/
 ├── palettes/
 │   ├── neutral/
 │   │   └── palette.yaml
@@ -111,7 +118,6 @@ monoyou-colors/
 │   │   └── palette.yaml
 │   └── warm/
 │       └── palette.yaml
-├── scripts/
 ├── LICENSE
 └── README.md
 ```
@@ -129,8 +135,8 @@ Each folder in `assets/palettes/` contains `00-palette.svg` (the full palette ov
 
 MonoYou Colors is the foundation for the broader MonoYou ecosystem:
 
-- **MonoYou Plasma** — KDE Plasma and Qt integration.
-- **MonoYou GTK** — GTK 3 and GTK 4 integration.
+- [**MonoYou Plasma**](https://github.com/edwardzerov2/monoyou-plasma) — KDE Plasma and Qt integration.
+- [**MonoYou GTK**](https://github.com/edwardzerov2/monoyou-gtk) — GTK 3 and GTK 4 integration.
 
 ## License
 
