@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="390" viewBox="0 0 1040 390" role="img" aria-labelledby="title desc">
+<title id="title">MonoYou Cold palette</title>
+<desc id="desc">A 4 by 3 grid showing the twelve semantic colors in the MonoYou Cold palette.</desc>
+<rect width="100%" height="100%" rx="18" fill="#111113"/>
+<g>
+<rect x="20.0" y="20.0" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="28.0" y="28.0" width="223.5" height="66.0" rx="6" fill="#DFE2E6" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="32.0" y="116.0" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Accent</text>
+<text x="32.0" y="140.0" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#DFE2E6</text>
+</g>
+<g>
+<rect x="273.5" y="20.0" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="281.5" y="28.0" width="223.5" height="66.0" rx="6" fill="#BCC2CB" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="285.5" y="116.0" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Text</text>
+<text x="285.5" y="140.0" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#BCC2CB</text>
+</g>
+<g>
+<rect x="527.0" y="20.0" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="535.0" y="28.0" width="223.5" height="66.0" rx="6" fill="#9099A8" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="539.0" y="116.0" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Subtext</text>
+<text x="539.0" y="140.0" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#9099A8</text>
+</g>
+<g>
+<rect x="780.5" y="20.0" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="788.5" y="28.0" width="223.5" height="66.0" rx="6" fill="#666F7E" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="792.5" y="116.0" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Overlay 2</text>
+<text x="792.5" y="140.0" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#666F7E</text>
+</g>
+<g>
+<rect x="20.0" y="141.3" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="28.0" y="149.3" width="223.5" height="66.0" rx="6" fill="#444B59" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="32.0" y="237.3" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Overlay 1</text>
+<text x="32.0" y="261.3" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#444B59</text>
+</g>
+<g>
+<rect x="273.5" y="141.3" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="281.5" y="149.3" width="223.5" height="66.0" rx="6" fill="#282D39" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="285.5" y="237.3" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Overlay 0</text>
+<text x="285.5" y="261.3" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#282D39</text>
+</g>
+<g>
+<rect x="527.0" y="141.3" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="535.0" y="149.3" width="223.5" height="66.0" rx="6" fill="#252A36" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="539.0" y="237.3" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Surface 2</text>
+<text x="539.0" y="261.3" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#252A36</text>
+</g>
+<g>
+<rect x="780.5" y="141.3" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="788.5" y="149.3" width="223.5" height="66.0" rx="6" fill="#222631" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="792.5" y="237.3" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Surface 1</text>
+<text x="792.5" y="261.3" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#222631</text>
+</g>
+<g>
+<rect x="20.0" y="262.7" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="28.0" y="270.7" width="223.5" height="66.0" rx="6" fill="#1F222D" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="32.0" y="358.7" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Surface 0</text>
+<text x="32.0" y="382.7" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#1F222D</text>
+</g>
+<g>
+<rect x="273.5" y="262.7" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="281.5" y="270.7" width="223.5" height="66.0" rx="6" fill="#1C1F29" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="285.5" y="358.7" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Base</text>
+<text x="285.5" y="382.7" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#1C1F29</text>
+</g>
+<g>
+<rect x="527.0" y="262.7" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="535.0" y="270.7" width="223.5" height="66.0" rx="6" fill="#191C25" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="539.0" y="358.7" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Island 1</text>
+<text x="539.0" y="382.7" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#191C25</text>
+</g>
+<g>
+<rect x="780.5" y="262.7" width="239.5" height="107.3" rx="10" fill="#1A1A1C" stroke="#353539"/>
+<rect x="788.5" y="270.7" width="223.5" height="66.0" rx="6" fill="#161923" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<text x="792.5" y="358.7" fill="#E5E5E5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Island 2</text>
+<text x="792.5" y="382.7" fill="#A6A6AA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">#161923</text>
+</g>
+</svg>

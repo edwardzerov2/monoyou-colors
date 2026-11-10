@@ -1,0 +1,21 @@
+name: MonoYou
+variant: warm
+version: 1.0.0
+
+colors:
+  accent: "#E4E2E0"
+  text: "#C8C3C0"
+  subtext: "#A49D99"
+
+  overlay2: "#77716E"
+  overlay1: "#57514E"
+  overlay0: "#393431"
+
+  surface2: "#302B28"
+  surface1: "#292522"
+  surface0: "#24201E"
+
+  base: "#1E1B19"
+
+  island1: "#1A1816"
+  island2: "#171513"
