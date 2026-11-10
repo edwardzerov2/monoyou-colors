@@ -1,4 +1,14 @@
 # MonoYou Colors
+![Status](https://img.shields.io/badge/status-work%20in%20progress-454545?style=flat-square&labelColor=1A1A1A)
+![License](https://img.shields.io/github/license/edwardzerov2/monoyou-colors?style=flat-square&labelColor=1A1A1A&color=454545)
+![Last Commit](https://img.shields.io/github/last-commit/edwardzerov2/monoyou-colors?style=flat-square&labelColor=1A1A1A&color=454545)
+
+> [!WARNING]
+> **WORK IN PROGRESS**
+>
+> MonoYou Colors is currently under active development. Palette definitions, color values and project structure may change before the first stable release.
+>
+> Some features and documentation may be incomplete.
 
 The foundation of the **MonoYou** color system.
 
