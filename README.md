@@ -122,8 +122,6 @@ monoyou-colors/
 └── README.md
 ```
 
-Each folder in `assets/palettes/` contains `00-palette.svg` (the full palette overview) and one SVG swatch per color role, numbered `01` to `12` in the same order as the tables above.
-
 ## Design principles
 
 - **Monochromatic:** Each variant follows a restrained color direction.
