@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MonoYou Colors</title>
+<meta name="description" content="MonoYou Colors: a restrained monochromatic palette system in Neutral, Cold and Warm variants.">
+<link rel="icon" href="assets/palettes/neutral/02-text.svg">
+<link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+<header class="panel">
+  <strong>MonoYou Colors</strong>
+  <nav id="tabs" role="tablist" aria-label="Variants"></nav>
+  <a href="https://github.com/edwardzerov2/monoyou-colors">GitHub</a>
+</header>
+<main>
+  <section class="win" id="w-palette">
+    <div class="bar"><span>Dolphin — MonoYou <span id="vname"></span></span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
+    <div class="body">
+      <div id="grid" class="grid"></div>
+    </div>
+  </section>
+  <section class="win" id="w-yaml">
+    <div class="bar"><span>Konsole — palette.yaml</span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
+    <p class="cmd">$ <b>cat <span id="cmd"></span></b></p>
+    <pre id="yaml"></pre>
+  </section>
+  <section class="win" id="w-preview">
+    <div class="bar"><span>Preview</span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
+    <div class="body">
+      <div class="mock">
+        <aside><span class="on">Home</span><span>Docs</span><span>Music</span></aside>
+        <div><h3>Aa — Heading</h3><p>Primary text with <small>secondary subtext</small></p><div class="card">Surface card</div><button type="button">Accent</button></div>
+      </div>
+    </div>
+  </section>
+  <section class="win" id="w-rel">
+    <div class="bar"><span>Related projects</span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
+    <ul class="body links">
+      <li><a href="https://github.com/edwardzerov2/monoyou-plasma">MonoYou Plasma</a> — KDE Plasma and Qt integration</li>
+      <li><a href="https://github.com/edwardzerov2/monoyou-gtk">MonoYou GTK</a> — GTK 3 and GTK 4 integration</li>
+    </ul>
+  </section>
+</main>
+<script src="site/script.js"></script>
+</body>
+</html>

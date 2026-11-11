@@ -41,18 +41,18 @@ The original monochromatic palette, built around neutral grayscale tones.
 
 | Color | Swatch | HEX | RGB | HSL |
 |---|---|---|---|---|
-| Accent | <img src="assets/palettes/neutral/01-accent.svg" width="20" height="20" alt="#E0E0E0"> | `#E0E0E0` | `224, 224, 224` | `0°, 0%, 88%` |
+| Accent | <img src="assets/palettes/neutral/01-accent.svg" width="20" height="20" alt="#4A4A4A"> | `#4A4A4A` | `74, 74, 74` | `0°, 0%, 29%` |
 | Text | <img src="assets/palettes/neutral/02-text.svg" width="20" height="20" alt="#C6C6C6"> | `#C6C6C6` | `198, 198, 198` | `0°, 0%, 78%` |
 | Subtext | <img src="assets/palettes/neutral/03-subtext.svg" width="20" height="20" alt="#929292"> | `#929292` | `146, 146, 146` | `0°, 0%, 57%` |
-| Overlay 2 | <img src="assets/palettes/neutral/04-overlay-2.svg" width="20" height="20" alt="#686868"> | `#686868` | `104, 104, 104` | `0°, 0%, 41%` |
-| Overlay 1 | <img src="assets/palettes/neutral/05-overlay-1.svg" width="20" height="20" alt="#454545"> | `#454545` | `69, 69, 69` | `0°, 0%, 27%` |
-| Overlay 0 | <img src="assets/palettes/neutral/06-overlay-0.svg" width="20" height="20" alt="#292929"> | `#292929` | `41, 41, 41` | `0°, 0%, 16%` |
-| Surface 2 | <img src="assets/palettes/neutral/07-surface-2.svg" width="20" height="20" alt="#242424"> | `#242424` | `36, 36, 36` | `0°, 0%, 14%` |
-| Surface 1 | <img src="assets/palettes/neutral/08-surface-1.svg" width="20" height="20" alt="#202020"> | `#202020` | `32, 32, 32` | `0°, 0%, 13%` |
-| Surface 0 | <img src="assets/palettes/neutral/09-surface-0.svg" width="20" height="20" alt="#1D1D1D"> | `#1D1D1D` | `29, 29, 29` | `0°, 0%, 11%` |
-| Base | <img src="assets/palettes/neutral/10-base.svg" width="20" height="20" alt="#1A1A1A"> | `#1A1A1A` | `26, 26, 26` | `0°, 0%, 10%` |
-| Island 1 | <img src="assets/palettes/neutral/11-island-1.svg" width="20" height="20" alt="#181818"> | `#181818` | `24, 24, 24` | `0°, 0%, 9%` |
-| Island 2 | <img src="assets/palettes/neutral/12-island-2.svg" width="20" height="20" alt="#161616"> | `#161616` | `22, 22, 22` | `0°, 0%, 9%` |
+| Overlay 2 | <img src="assets/palettes/neutral/04-overlay-2.svg" width="20" height="20" alt="#2C2C2C"> | `#2C2C2C` | `44, 44, 44` | `0°, 0%, 17%` |
+| Overlay 1 | <img src="assets/palettes/neutral/05-overlay-1.svg" width="20" height="20" alt="#222222"> | `#222222` | `34, 34, 34` | `0°, 0%, 13%` |
+| Overlay 0 | <img src="assets/palettes/neutral/06-overlay-0.svg" width="20" height="20" alt="#1B1B1B"> | `#1B1B1B` | `27, 27, 27` | `0°, 0%, 11%` |
+| Surface 2 | <img src="assets/palettes/neutral/07-surface-2.svg" width="20" height="20" alt="#222222"> | `#222222` | `34, 34, 34` | `0°, 0%, 13%` |
+| Surface 1 | <img src="assets/palettes/neutral/08-surface-1.svg" width="20" height="20" alt="#1B1B1B"> | `#1B1B1B` | `27, 27, 27` | `0°, 0%, 11%` |
+| Surface 0 | <img src="assets/palettes/neutral/09-surface-0.svg" width="20" height="20" alt="#161616"> | `#161616` | `22, 22, 22` | `0°, 0%, 9%` |
+| Base | <img src="assets/palettes/neutral/10-base.svg" width="20" height="20" alt="#121212"> | `#121212` | `18, 18, 18` | `0°, 0%, 7%` |
+| Island 1 | <img src="assets/palettes/neutral/11-island-1.svg" width="20" height="20" alt="#101010"> | `#101010` | `16, 16, 16` | `0°, 0%, 6%` |
+| Island 2 | <img src="assets/palettes/neutral/12-island-2.svg" width="20" height="20" alt="#0E0E0E"> | `#0E0E0E` | `14, 14, 14` | `0°, 0%, 5%` |
 
 ### MonoYou Cold
 
@@ -60,18 +60,18 @@ A cool variation with subtle blue-gray undertones.
 
 | Color | Swatch | HEX | RGB | HSL |
 |---|---|---|---|---|
-| Accent | <img src="assets/palettes/cold/01-accent.svg" width="20" height="20" alt="#DFE2E6"> | `#DFE2E6` | `223, 226, 230` | `214°, 12%, 89%` |
-| Text | <img src="assets/palettes/cold/02-text.svg" width="20" height="20" alt="#BCC2CB"> | `#BCC2CB` | `188, 194, 203` | `216°, 13%, 77%` |
-| Subtext | <img src="assets/palettes/cold/03-subtext.svg" width="20" height="20" alt="#9099A8"> | `#9099A8` | `144, 153, 168` | `218°, 12%, 61%` |
-| Overlay 2 | <img src="assets/palettes/cold/04-overlay-2.svg" width="20" height="20" alt="#666F7E"> | `#666F7E` | `102, 111, 126` | `218°, 11%, 45%` |
-| Overlay 1 | <img src="assets/palettes/cold/05-overlay-1.svg" width="20" height="20" alt="#444B59"> | `#444B59` | `68, 75, 89` | `220°, 13%, 31%` |
-| Overlay 0 | <img src="assets/palettes/cold/06-overlay-0.svg" width="20" height="20" alt="#282D39"> | `#282D39` | `40, 45, 57` | `222°, 18%, 19%` |
-| Surface 2 | <img src="assets/palettes/cold/07-surface-2.svg" width="20" height="20" alt="#252A36"> | `#252A36` | `37, 42, 54` | `222°, 19%, 18%` |
-| Surface 1 | <img src="assets/palettes/cold/08-surface-1.svg" width="20" height="20" alt="#222631"> | `#222631` | `34, 38, 49` | `224°, 18%, 16%` |
-| Surface 0 | <img src="assets/palettes/cold/09-surface-0.svg" width="20" height="20" alt="#1F222D"> | `#1F222D` | `31, 34, 45` | `227°, 18%, 15%` |
-| Base | <img src="assets/palettes/cold/10-base.svg" width="20" height="20" alt="#1C1F29"> | `#1C1F29` | `28, 31, 41` | `226°, 19%, 14%` |
-| Island 1 | <img src="assets/palettes/cold/11-island-1.svg" width="20" height="20" alt="#191C25"> | `#191C25` | `25, 28, 37` | `225°, 19%, 12%` |
-| Island 2 | <img src="assets/palettes/cold/12-island-2.svg" width="20" height="20" alt="#161923"> | `#161923` | `22, 25, 35` | `226°, 23%, 11%` |
+| Accent | <img src="assets/palettes/cold/01-accent.svg" width="20" height="20" alt="#454A53"> | `#454A53` | `69, 74, 83` | `219°, 9%, 30%` |
+| Text | <img src="assets/palettes/cold/02-text.svg" width="20" height="20" alt="#C0C4CC"> | `#C0C4CC` | `192, 196, 204` | `220°, 11%, 78%` |
+| Subtext | <img src="assets/palettes/cold/03-subtext.svg" width="20" height="20" alt="#9298A3"> | `#9298A3` | `146, 152, 163` | `219°, 8%, 61%` |
+| Overlay 2 | <img src="assets/palettes/cold/04-overlay-2.svg" width="20" height="20" alt="#292C32"> | `#292C32` | `41, 44, 50` | `220°, 10%, 18%` |
+| Overlay 1 | <img src="assets/palettes/cold/05-overlay-1.svg" width="20" height="20" alt="#202226"> | `#202226` | `32, 34, 38` | `220°, 9%, 14%` |
+| Overlay 0 | <img src="assets/palettes/cold/06-overlay-0.svg" width="20" height="20" alt="#191B1F"> | `#191B1F` | `25, 27, 31` | `220°, 11%, 11%` |
+| Surface 2 | <img src="assets/palettes/cold/07-surface-2.svg" width="20" height="20" alt="#202226"> | `#202226` | `32, 34, 38` | `220°, 9%, 14%` |
+| Surface 1 | <img src="assets/palettes/cold/08-surface-1.svg" width="20" height="20" alt="#191B1F"> | `#191B1F` | `25, 27, 31` | `220°, 11%, 11%` |
+| Surface 0 | <img src="assets/palettes/cold/09-surface-0.svg" width="20" height="20" alt="#151619"> | `#151619` | `21, 22, 25` | `225°, 9%, 9%` |
+| Base | <img src="assets/palettes/cold/10-base.svg" width="20" height="20" alt="#111214"> | `#111214` | `17, 18, 20` | `220°, 8%, 7%` |
+| Island 1 | <img src="assets/palettes/cold/11-island-1.svg" width="20" height="20" alt="#0F1012"> | `#0F1012` | `15, 16, 18` | `220°, 9%, 6%` |
+| Island 2 | <img src="assets/palettes/cold/12-island-2.svg" width="20" height="20" alt="#0D0E10"> | `#0D0E10` | `13, 14, 16` | `220°, 10%, 6%` |
 
 ### MonoYou Warm
 
