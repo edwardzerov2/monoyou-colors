@@ -10,21 +10,26 @@
 </head>
 <body>
 <header class="panel">
-  <strong>MonoYou Colors</strong>
   <nav id="tabs" role="tablist" aria-label="Variants"></nav>
-  <a href="https://github.com/edwardzerov2/monoyou-colors">GitHub</a>
+  <div class="tray">
+    <strong>MonoYou Colors</strong>
+    <a href="https://github.com/edwardzerov2/monoyou-colors">GitHub</a>
+  </div>
 </header>
 <main>
   <section class="win" id="w-palette">
     <div class="bar"><span>Dolphin — MonoYou <span id="vname"></span></span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
     <div class="body">
+      <a id="overview" class="overview" href="#" download>Download palette overview</a>
       <div id="grid" class="grid"></div>
     </div>
   </section>
   <section class="win" id="w-yaml">
     <div class="bar"><span>Konsole — palette.yaml</span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
-    <p class="cmd">$ <b>cat <span id="cmd"></span></b></p>
-    <pre id="yaml"></pre>
+    <div class="body console-body">
+      <p class="cmd">$ <b>cat <span id="cmd"></span></b></p>
+      <pre id="yaml"></pre>
+    </div>
   </section>
   <section class="win" id="w-preview">
     <div class="bar"><span>Preview</span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
@@ -37,10 +42,12 @@
   </section>
   <section class="win" id="w-rel">
     <div class="bar"><span>Related projects</span><span class="btns" aria-hidden="true"><span class="wc wc-min"></span><span class="wc wc-max"></span><span class="wc wc-close"></span></span></div>
-    <ul class="body links">
-      <li><a href="https://github.com/edwardzerov2/monoyou-plasma">MonoYou Plasma</a> — KDE Plasma and Qt integration</li>
-      <li><a href="https://github.com/edwardzerov2/monoyou-gtk">MonoYou GTK</a> — GTK 3 and GTK 4 integration</li>
-    </ul>
+    <div class="body">
+      <ul class="links">
+        <li><a class="related-item" href="https://github.com/edwardzerov2/monoyou-plasma"><strong>MonoYou Plasma</strong><small>KDE Plasma and Qt integration</small></a></li>
+        <li><a class="related-item" href="https://github.com/edwardzerov2/monoyou-gtk"><strong>MonoYou GTK</strong><small>GTK 3 and GTK 4 integration</small></a></li>
+      </ul>
+    </div>
   </section>
 </main>
 <script src="site/script.js"></script>
