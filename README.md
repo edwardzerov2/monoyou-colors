@@ -16,6 +16,8 @@ MonoYou Colors defines a restrained monochromatic palette system designed to kee
 
 The project currently provides three variants: **Cold**, **Neutral** and **Warm**. Each variant uses the same twelve semantic color roles.
 
+🌐 **Website:** [edwardzerov2.github.io/monoyou-colors](https://edwardzerov2.github.io/monoyou-colors/)
+
 <table align="center">
   <tr>
     <td align="center">
@@ -116,11 +118,13 @@ monoyou-colors/
 ├── assets/
 │   └── palettes/
 │       ├── neutral/
+│       │   ├── 00-palette.svg
 │       │   └── ...
 │       ├── cold/
 │       │   └── ...
 │       └── warm/
 │           └── ...
+├── index.html
 ├── palettes/
 │   ├── neutral/
 │   │   └── palette.yaml
@@ -128,6 +132,9 @@ monoyou-colors/
 │   │   └── palette.yaml
 │   └── warm/
 │       └── palette.yaml
+├── site/
+│   ├── script.js
+│   └── style.css
 ├── LICENSE
 └── README.md
 ```
