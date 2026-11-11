@@ -10,11 +10,9 @@
 >
 > Some features and documentation may be incomplete.
 
-The foundation of the **MonoYou** color system.
-
+The foundation of the **MonoYou** color system.<br>
 MonoYou Colors defines a restrained monochromatic palette system designed to keep visual consistency across desktop environments and applications.
-
-The project currently provides three variants: **Cold**, **Neutral** and **Warm**. Each variant uses the same twelve semantic color roles.
+The project currently provides three variants: **Cold**, **Neutral** and **Warm**. Each variant uses the same twelve semantic color roles.<br>
 
 **Website:** [edwardzerov2.github.io/monoyou-colors](https://edwardzerov2.github.io/monoyou-colors/)
 
