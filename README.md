@@ -116,7 +116,6 @@ monoyou-colors/
 ├── assets/
 │   └── palettes/
 │       ├── neutral/
-│       │   ├── 00-palette.svg
 │       │   └── ...
 │       ├── cold/
 │       │   └── ...
